@@ -1,0 +1,149 @@
+/* 
+ Localizable.strings
+ X-Lab
+ 
+ Created by Nirav Patel on 15/02/24.
+ 
+ */
+"Login.LoginButton" = "लॉग इन करें";
+"Login.GoogleSignIn" = "गूगल से साइन इन करें";
+"Login.Title" = "वापसी पर स्वागत है!";
+"Login.SubTitle" = "आइए देखें कि आपने क्या मिस किया है";
+"Login.ForgotPassword" = "पासवर्ड भूल गए";
+"Login.SignUp" = "साइन अप";
+"Login.EmailError" = "अमान्य ईमेल";
+"Login.PasswordError" = "पासवर्ड में छह अक्षर होने चाहिए";
+"Login.Email" = "ईमेल";
+"Login.Password" = "पासवर्ड";
+
+//Home
+"HomeTab" = "होम";
+"ProfilTab" = "प्रोफ़ाइल";
+
+//Theme
+"Theme" = "थीम";
+"Theme.Subtitle" = "अपने अनुभव को निजीकृत करें";
+
+//Fonts
+"Font" = "लिपि";
+"Font.Subtitle" = "आपके शब्द, आपका तरीका";
+
+// Side menu
+"SideMenu.Theme" = "ऐप थीम";
+"SideMenu.Language" = "भाषा";
+"SideMenu.FontStyle" = "लिपि शैली";
+"SideMenu.PrivacyPolicy" = "गोपनीयता नीति";
+"SideMenu.About" = "हमारे बारे में";
+"SideMenu.Logout" = "लॉग आउट";
+
+//EditProfile
+"Profile" = "प्रोफ़ाइल";
+"Profile.FirstName" = "पहला नाम";
+"Profile.LastName" = "उपनाम";
+"Profile.PhomeNumber" = "फ़ोन नंबर";
+"Profile.DOB" = "जन्म की तारीख";
+"Profile.Gender" = "लिंग";
+"Profile.SaveBtn" = "परिवर्तनों को सुरक्षित करें";
+"Profile.Male" = "पुरुष";
+"Profile.Female" = "महिला";
+
+"Profile.PlaceHolder" = "यहाँ लिखें...";
+
+//Language
+
+"English" = "अंग्रेज़ी";
+"Hindi" = "हिंदी";
+"Language" = "भाषा";
+"Language.SubTitle" = "अपनी पसंदीदा भाषा चुनें";
+
+// Common
+"Hello" = "नमस्ते";
+"Home" = "होम";
+
+
+//Sign Up
+"SignUp.Header" = "शुरू हो जाओ";
+"SignUp.SubHeader" = "खाता बनाएं.";
+"SignUp.FirstNameError" = "प्रथम नाम खाली नहीं हो सकता.";
+"SignUp.LastNameError" = "अंतिम नाम खाली नहीं हो सकता.";
+"SignUp.PhoneNumberError" = "संख्या दस अंकों से कम होनी चाहिए.";
+"SignUp.GenderError" = "लिंग आवश्यक है.";
+"SignUp.EmailError" = "अमान्य ईमेल";
+"SignUp.PasswordError" = "पासवर्ड में छह अक्षर होने चाहिए.";
+"SignUp.SignUpButton" = "साइन अप करें";
+"SignUp.AlreadyAccount" = "क्या आपके पास पहले से एक खाता मौजूद है?";
+"SignUp.Optional" = "(वैकल्पिक)";
+
+
+
+// Forgot
+"Forgot.Submit" = "प्रस्तुत करें";
+"Forgot.Header" = "पासवर्ड भूल गए ?";
+"Forgot.SubHeader" = "अपने खाते से जुड़ा ईमेल पता या फ़ोन नंबर दर्ज करें.";
+"Forgot.ForgotEmail" = "ईमेल भूल गए?";
+"Forgot.SupportCenter" = "सहायता केंद्र";
+
+
+// Popup
+
+"Ok.Button" = "ठीक है";
+"Yes.Button" = "हाँ";
+"No.Button" = "नहीं";
+"Error.Message" = "त्रुटि";
+"Error.EmailNotVerify.Message" = "ईमेल सत्यापित नहीं है.";
+"Error.InvalidCredentials.Message" = "अवैध प्रत्यय पत्र.";
+"Error.InvalidEmailAndPassword.Message" = "अमान्य ईमेल और पासवर्ड.";
+"Error.SendingEmailResetRequest.Message" = "रीसेट अनुरोध भेजने में त्रुटि.";
+"Error.EmailAlreadyUsed.Message" = "ईमेल पता पहले से ही किसी अन्य खाते द्वारा उपयोग में है.";
+"Error.EmailVerificationMail.Message" = "सत्यापन ईमेल भेजने में त्रुटि.";
+"Alert.Message" = "चेतावनी!";
+"Success.Message" = "सफलता";
+"Success.EmailResetSendSuccessfully.Message" = "पासवर्ड रीसेट लिंक आपके ईमेल पर सफलतापूर्वक भेज दिया गया है, कृपया अपना मेलबॉक्स जांचें.";
+"Success.EmailVerificationMailSuccess.Message" = "सत्यापन ईमेल आपके ईमेल पते पर भेजा गया। कृपया इसे सत्यापित करें.";
+"Close.Button" = "बंद करें";
+"Fill_Credentials_Message" = "सभी क्रेडेंशियल्स भरें.";
+"Fill_Email_Message" = "ईमेल भरें.";
+"Fill_CorrectEmail_Message" = "ईमेल को सही फॉर्मेट में भरें.";
+"Fill_Password_Message" = "पासवर्ड भरें.";
+"Fill_CorrectPassword_Message" = "पासवर्ड 6 अक्षर का होना चाहिए और इसमें कम से कम एक अक्षर, एक पूर्णांक और एक प्रतीक होना चाहिए.";
+"Fill_Phonenumber_Message" = "फ़ोन नंबर खाली हो सकता है या सात से दस अंकों का होना चाहिए.";
+"Fill_AllRequiredCredentials_Message" = "सबसे पहले सभी आवश्यक क्रेडेंशियल भरें.";
+"Fill_FirstName_Message" = "प्रथम नाम भरें.";
+"Fill_CorrectFirstName_Message" = "प्रथम नाम में अंक, प्रतीक और रिक्त स्थान नहीं होना चाहिए.";
+"Fill_LastName_Message" = "उपनाम नाम भरें.";
+"Fill_CorrectLastName_Message" = "उपनाम नाम में अंक, प्रतीक और रिक्त स्थान नहीं होना चाहिए.";
+"Fill_Gender_Message" = "लिंग भरें.";
+"Profile_Update_Message" = "आपकी प्रोफ़ाइल सफलतापूर्वक अपडेट हो गई.";
+"Profile_Fill_Firstname_Message" = "प्रथम और अंतिम नाम खाली नहीं होना चाहिए.";
+
+//PrivacyPolicy
+"PrivacyPolicy" = "गोपनीयता नीति";
+
+//About Us
+"About" = "हमारे बारे में";
+"AppVersion" = "ऐप वर्जन 1.0.0";
+"DevelopedAt" = "X-Labs डेवलपड एट";
+
+
+// HomeVC content
+"Title.ChichenItza" = "चिचेन इट्ज़ा";
+"Subtitle.ChichenItza" = "चिचेन इट्ज़ा मेक्सिको में युकाटन प्रायद्वीप पर एक माया शहर है, जो 9वीं और 10 वीं शताब्दी ईस्वी में फला-फूला। माया जनजाति इट्ज़ा के तहत - जो टॉलटेक से काफी प्रभावित थे - कई महत्वपूर्ण स्मारक और मंदिर बनाए गए थे.";
+
+"Title.ChristtheRedeemer" = "क्राइस्ट द रिडीमर";
+"Subtitle.ChristtheRedeemer" = "क्राइस्ट द रिडीमर, यीशु की एक विशाल प्रतिमा, रियो डी जनेरियो में माउंट कोरकोवाडो के ऊपर स्थित है। इसकी उत्पत्ति प्रथम विश्व युद्ध के ठीक बाद की है, जब कुछ ब्राज़ीलियाई लोगों को 'ईश्वरहीनता के ज्वार' की आशंका थी.";
+
+"Title.Colosseum" = "कोलोसियम";
+"Subtitle.Colosseum" = "रोम में कोलोसियम सम्राट वेस्पासियन के आदेश पर पहली शताब्दी में बनाया गया था। इंजीनियरिंग की एक उपलब्धि, एम्फीथिएटर की माप 620 गुणा 513 फीट (189 गुणा 156 मीटर) है और इसमें वाल्टों की एक जटिल प्रणाली है। यह 50,000 रखने में सक्षम था दर्शक, जिन्होंने विभिन्न प्रकार के कार्यक्रम देखे.";
+
+"Title.GreatwallofChina" = "चीन की महान दीवार";
+"Subtitle.GreatwallofChina" = "महान को कम करके आंका जा सकता है। दुनिया की सबसे बड़ी भवन-निर्माण परियोजनाओं में से एक, चीन की महान दीवार को व्यापक रूप से लगभग 5,500 मील (8,850 किमी) लंबा माना जाता है; हालांकि, एक विवादित चीनी अध्ययन का दावा है कि इसकी लंबाई 13,170 मील है ( 21,200 किमी).";
+
+"Title.MachuPicchu" = "माचू पिचू";
+"Subtitle.MachuPicchu" = "पेरू के कुज़्को के पास इस इंकान स्थल की खोज 1911 में हीराम बिंघम द्वारा की गई थी, जो मानते थे कि यह विलकाबाम्बा था, जो एक गुप्त इंकान गढ़ था, जिसका उपयोग 16 वीं शताब्दी में स्पेनिश शासन के खिलाफ विद्रोह के दौरान किया गया था। हालांकि यह दावा बाद में खारिज कर दिया गया था, लेकिन इसका उद्देश्य माचू पिचू ने विद्वानों को भ्रमित कर दिया है.";
+
+"Title.Petra" = "पेट्रा";
+"Subtitle.Petra" = "प्राचीन शहर पेट्रा, जॉर्डन, एक सुदूर घाटी में स्थित है, जो बलुआ पत्थर के पहाड़ों और चट्टानों के बीच बसा हुआ है। ऐसा माना जाता है कि यह उन स्थानों में से एक था जहां मूसा ने एक चट्टान को मारा था और पानी बाहर निकल आया था.";
+
+"Title.TajMahal" = "ताजमहल";
+"Subtitle.TajMahal" = "भारत के आगरा में स्थित यह मकबरा परिसर दुनिया के सबसे प्रतिष्ठित स्मारकों में से एक माना जाता है और शायद यह मुगल वास्तुकला का सबसे अच्छा उदाहरण है। इसे सम्राट शाहजहाँ ने अपनी पत्नी मुमताज महल के सम्मान में बनवाया था, जिनकी 1631 में एक बच्चे को जन्म देते समय मृत्यु हो गई थी। उनका 14वां बच्चा.";
+

@@ -1,0 +1,28 @@
+PODS:
+  - CHIPageControl/Jaloro (0.2)
+  - FSPagerView (0.8.3)
+  - IQKeyboardManagerSwift (6.5.16)
+  - SideMenu (6.5.0)
+
+DEPENDENCIES:
+  - CHIPageControl/Jaloro
+  - FSPagerView
+  - IQKeyboardManagerSwift
+  - SideMenu (~> 6.0)
+
+SPEC REPOS:
+  trunk:
+    - CHIPageControl
+    - FSPagerView
+    - IQKeyboardManagerSwift
+    - SideMenu
+
+SPEC CHECKSUMS:
+  CHIPageControl: a787bf7205c9b7e7fbfc412be36c5e8636b68f86
+  FSPagerView: 670405b2f18e2a87fa37f20b00de783e562c25a8
+  IQKeyboardManagerSwift: 12d89768845bb77b55cc092ecc2b1f9370f06b76
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+
+PODFILE CHECKSUM: 74dc500c74e92c3958ed4748ec999d4419cc3641
+
+COCOAPODS: 1.11.2

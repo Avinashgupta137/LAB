@@ -1,0 +1,93 @@
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0Cq-KY-w8g"; */
+"0Cq-KY-w8g.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "23X-p1-8cO"; */
+"23X-p1-8cO.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Write here.."; ObjectID = "60N-Kb-MBg"; */
+"60N-Kb-MBg.placeholder" = "Write here..";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "72i-v9-nVZ"; */
+"72i-v9-nVZ.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "LogOut"; ObjectID = "ANo-Ym-IYp"; */
+"ANo-Ym-IYp.configuration.title" = "LogOut";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ANo-Ym-IYp"; */
+"ANo-Ym-IYp.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "BJQ-ij-Vn0"; */
+"BJQ-ij-Vn0.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "D6F-wZ-wba"; */
+"D6F-wZ-wba.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Last name"; ObjectID = "IAX-E4-bbK"; */
+"IAX-E4-bbK.text" = "Last name";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Lzj-iU-HSo"; */
+"Lzj-iU-HSo.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "OpV-zI-xVB"; */
+"OpV-zI-xVB.text" = "Gender";
+
+/* Class = "UILabel"; text = "+91 9753449013"; ObjectID = "S8N-D9-2h1"; */
+"S8N-D9-2h1.text" = "+91 9753449013";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "TPm-Kf-J4c"; */
+"TPm-Kf-J4c.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Thz-2Y-QTL"; */
+"Thz-2Y-QTL.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Date of birth"; ObjectID = "ZQq-wX-CNx"; */
+"ZQq-wX-CNx.text" = "Date of birth";
+
+/* Class = "UILabel"; text = "HEllO अविनाश"; ObjectID = "aAY-Ng-rOV"; */
+"aAY-Ng-rOV.text" = "HEllO अविनाश";
+
+/* Class = "UITextField"; placeholder = "Write here.."; ObjectID = "ciD-6y-dfr"; */
+"ciD-6y-dfr.placeholder" = "Write here..";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "dlb-gJ-jSt"; */
+"dlb-gJ-jSt.title" = "Profile";
+
+/* Class = "UIButton"; configuration.title = "Save Changes"; ObjectID = "fPg-8i-WaU"; */
+"fPg-8i-WaU.configuration.title" = "Save Changes";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fPg-8i-WaU"; */
+"fPg-8i-WaU.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Tiffany"; ObjectID = "fbR-2p-n32"; */
+"fbR-2p-n32.text" = "Tiffany";
+
+/* Class = "UITextField"; placeholder = "Write here.."; ObjectID = "feI-FN-L5T"; */
+"feI-FN-L5T.placeholder" = "Write here..";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "g5C-Of-rKX"; */
+"g5C-Of-rKX.title" = "Home";
+
+/* Class = "UILabel"; text = "HomeVC"; ObjectID = "mp2-WX-iv7"; */
+"mp2-WX-iv7.text" = "HomeVC";
+
+/* Class = "UILabel"; text = "First name"; ObjectID = "pOl-5G-vva"; */
+"pOl-5G-vva.text" = "First name";
+
+/* Class = "UITextField"; placeholder = "Write here.."; ObjectID = "rfR-Ys-Fqf"; */
+"rfR-Ys-Fqf.placeholder" = "Write here..";
+
+/* Class = "UILabel"; text = "Tiffanyjearsey@gmail.com"; ObjectID = "spM-fu-3jS"; */
+"spM-fu-3jS.text" = "Tiffanyjearsey@gmail.com";
+
+/* Class = "UINavigationItem"; title = "Profile"; ObjectID = "vlP-y1-r3j"; */
+"vlP-y1-r3j.title" = "Profile";
+
+/* Class = "UILabel"; text = "Phonenumber"; ObjectID = "vwW-XM-eZU"; */
+"vwW-XM-eZU.text" = "Phonenumber";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "y7z-Uh-PU2"; */
+"y7z-Uh-PU2.title" = "Item";
+
+/* Class = "UITextField"; placeholder = "Write here.."; ObjectID = "yAs-hi-0BZ"; */
+"yAs-hi-0BZ.placeholder" = "Write here..";

@@ -1,0 +1,151 @@
+/* 
+  Localizable.strings
+  X-Lab
+
+  Created by Nirav Patel on 15/02/24.
+  
+*/
+
+"Login.LoginButton" = "SignIn";
+"Login.GoogleSignIn" = "Sign In With Google";
+"Login.Title" = "Welcome Back!";
+"Login.SubTitle" = "Lets see what you have missed";
+"Login.ForgotPassword" = "Forgot Password";
+"Login.SignUp" = "SignUp";
+"Login.EmailError" = "Invalid Email";
+"Login.PasswordError" = "Password should contain six charcters";
+"Login.Email" = "Email";
+"Login.Password" = "Password";
+
+//Home
+"HomeTab" = "Home";
+"ProfilTab" = "Profile";
+
+//Theme
+"Theme" = "Themes";
+"Theme.Subtitle" = "Personalise your Experience";
+
+//Fonts
+"Font" = "Fonts";
+"Font.Subtitle" = "Your Words, Your Way";
+
+// Side menu
+
+
+"SideMenu.Theme" = "Theme";
+"SideMenu.Language" = "Language";
+"SideMenu.FontStyle" = "Font Style";
+"SideMenu.PrivacyPolicy" = "Privacy Policy";
+"SideMenu.About" = "About";
+"SideMenu.Logout" = "Logout";
+
+//EditProfile
+"Profile" = "Profile";
+"Profile.FirstName" = "First Name";
+"Profile.LastName" = "Last Name";
+"Profile.PhomeNumber" = "Phone Number";
+"Profile.DOB" = "Date of Birth";
+"Profile.Gender" = "Gender";
+"Profile.SaveBtn" = "Save Changes";
+"Profile.Male" = "Male";
+"Profile.Female" = "Female";
+"Profile.PlaceHolder" = "Write Here...";
+
+
+//Language
+
+"English" = "English";
+"Hindi" = "Hindi";
+"Language" = "Language";
+"Language.SubTitle" = "Choose your Preferred Language";
+
+
+// Common
+"Hello" = "Hello";
+"Home" = "Home";
+
+//Sign Up
+
+"SignUp.Header" = "Get Started";
+"SignUp.SubHeader" = "by creating a free account.";
+"SignUp.FirstNameError" = "First name can't be empty.";
+"SignUp.LastNameError" = "Last name can't be empty.";
+"SignUp.PhoneNumberError" = "Number must less than ten digits.";
+"SignUp.GenderError" = "Gender is required.";
+"SignUp.EmailError" = "Invalid Email";
+"SignUp.PasswordError" = "Password must contains six characters.";
+"SignUp.SignUpButton" = "SignUp";
+"SignUp.AlreadyAccount" = "Already have an account?";
+"SignUp.Optional" = "(Optional)";
+
+
+// Forgot
+"Forgot.Submit" = "Submit";
+"Forgot.Header" = "Forgot password ?";
+"Forgot.SubHeader" = "Enter the email address or phone number linked to your account.";
+"Forgot.ForgotEmail" = "Forgot Email?";
+"Forgot.SupportCenter" = "Support center";
+
+
+// Popup
+
+"Ok.Button" = "OK";
+"Yes.Button" = "Yes";
+"No.Button" = "No";
+"Error.Message" = "Error!";
+"Error.EmailNotVerify.Message" = "Email not verified.";
+"Error.InvalidCredentials.Message" = "Invalid Credentials.";
+"Error.InvalidEmailAndPassword.Message" = "Invalid email and password.";
+"Error.SendingEmailResetRequest.Message" = "Error sending reset request.";
+"Error.EmailAlreadyUsed.Message" = "The email address is already in use by another account.";
+"Error.EmailVerificationMail.Message" = "Error sending verification email.";
+"Alert.Message" = "Alert!";
+"Success.Message" = "Success";
+"Success.EmailResetSendSuccessfully.Message" = "Password reset link send to your email successfully, Kindly check your mailbox.";
+"Success.EmailVerificationMailSuccess.Message" = "Verification email sent to your email address. Please verify it.";
+"Close.Button" = "Close";
+"Fill_Credentials_Message" = "Fill all credentials first.";
+"Fill_Email_Message" = "Fill email.";
+"Fill_CorrectEmail_Message" = "Fill email in correct format.";
+"Fill_Password_Message" = "Fill password.";
+"Fill_CorrectPassword_Message" = "Password should be 6 characters and contain at least one alphabet, one integer, and one symbol.";
+"Fill_Phonenumber_Message" = "The phone number can be empty or should consist of seven to ten digits.";
+"Fill_AllRequiredCredentials_Message" = "Fill in all required credentials first.";
+"Fill_FirstName_Message" = "Fill First Name.";
+"Fill_CorrectFirstName_Message" = "First Name should not contain digits, symbols, and blank spaces.";
+"Fill_LastName_Message" = "Fill Last Name.";
+"Fill_CorrectLastName_Message" = "Last Name should not contain digits, symbols, and blank spaces.";
+"Fill_Gender_Message" = "Fill Gender.";
+"Profile_Update_Message" = "Your profile updated successfully.";
+"Profile_Fill_Firstname_Message" = "First and last name shouldn't be empty.";
+
+
+//PrivacyPolicy
+"PrivacyPolicy" = "PrivacyPolicy";
+
+//About Us
+"About" = "About Us";
+"AppVersion" = "App Version 1.0.0";
+"DevelopedAt" = "X-Labs Developed At";
+
+// HomeVC content
+"Title.ChichenItza" = "Chichen Itza";
+"Subtitle.ChichenItza" = "Chichen Itza is a Mayan city on the Yucatán Peninsula in Mexico, which flourished in the 9th and 10th centuries CE. Under the Mayan tribe Itzá—who were strongly influenced by the Toltecs—a number of important monuments and temples were built.";
+
+"Title.ChristtheRedeemer" = "Christ the Redeemer";
+"Subtitle.ChristtheRedeemer" = "Christ the Redeemer, a colossal statue of Jesus, stands atop Mount Corcovado in Rio de Janeiro. Its origins date to just after World War I, when some Brazilians feared a 'tide of godlessness'.";
+
+"Title.Colosseum" = "Colosseum";
+"Subtitle.Colosseum" = "The Colosseum in Rome was built in the first century by order of the Emperor Vespasian. A feat of engineering, the amphitheater measures 620 by 513 feet (189 by 156 meters) and features a complex system of vaults. It was capable of holding 50,000 spectators, who watched a variety of events.";
+
+"Title.GreatwallofChina" = "Great wall of China";
+"Subtitle.GreatwallofChina" = "Great might be an understatement. One of the world’s largest building-construction projects, the Great Wall of China is widely thought to be about 5,500 miles (8,850 km) long; a disputed Chinese study, however, claims the length is 13,170 miles (21,200 km).";
+
+"Title.MachuPicchu" = "Machu Picchu";
+"Subtitle.MachuPicchu" = "This Incan site near Cuzco, Peru, was “discovered” in 1911 by Hiram Bingham, who believed it was Vilcabamba, a secret Incan stronghold used during the 16th-century rebellion against Spanish rule. Although that claim was later disproved, the purpose of Machu Picchu has confounded scholars.";
+
+"Title.Petra" = "Petra";
+"Subtitle.Petra" = "The ancient city of Petra, Jordan, is located in a remote valley, nestled among sandstone mountains and cliffs. It was purported to be one of the places where Moses struck a rock and water gushed forth.";
+
+"Title.TajMahal" = "Taj Mahal";
+"Subtitle.TajMahal" = "This mausoleum complex in Agra, India, is regarded as one of the world’s most iconic monuments and is perhaps the finest example of Mughal architecture. It was built by Emperor Shah Jahān to honor his wife Mumtāz Maḥal, who died in 1631 giving birth to their 14th child.";

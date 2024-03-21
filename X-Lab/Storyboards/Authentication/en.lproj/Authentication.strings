@@ -1,0 +1,138 @@
+
+/* Class = "UILabel"; text = "Get Started"; ObjectID = "2j9-Gz-nxq"; */
+"2j9-Gz-nxq.text" = "Get Started";
+
+/* Class = "UILabel"; text = "Invalid Emailaddress."; ObjectID = "3Qj-CF-GkQ"; */
+"3Qj-CF-GkQ.text" = "Invalid Emailaddress.";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "5wn-ec-iE1"; */
+"5wn-ec-iE1.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "8k1-G7-pRd"; */
+"8k1-G7-pRd.configuration.title" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "8k1-G7-pRd"; */
+"8k1-G7-pRd.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "92V-83-HAU"; */
+"92V-83-HAU.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "First name can't be empty."; ObjectID = "Bkt-zg-rIu"; */
+"Bkt-zg-rIu.text" = "First name can't be empty.";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Btx-7O-uIq"; */
+"Btx-7O-uIq.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Password must contains six characters."; ObjectID = "ByR-1y-BAZ"; */
+"ByR-1y-BAZ.text" = "Password must contains six characters.";
+
+/* Class = "UILabel"; text = "Already have an account?."; ObjectID = "Cbb-jG-4fV"; */
+"Cbb-jG-4fV.text" = "Already have an account?.";
+
+/* Class = "UIButton"; configuration.title = "Forgot Password"; ObjectID = "Db9-MQ-Q6B"; */
+"Db9-MQ-Q6B.configuration.title" = "Forgot Password";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Db9-MQ-Q6B"; */
+"Db9-MQ-Q6B.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Last name can't be empty."; ObjectID = "G3p-m4-vkj"; */
+"G3p-m4-vkj.text" = "Last name can't be empty.";
+
+/* Class = "UITextField"; placeholder = "Phone number (Optional)"; ObjectID = "IpA-Sf-JWh"; */
+"IpA-Sf-JWh.placeholder" = "Phone number (Optional)";
+
+/* Class = "UIButton"; configuration.title = "Signup"; ObjectID = "JlT-hl-bYj"; */
+"JlT-hl-bYj.configuration.title" = "Signup";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "JlT-hl-bYj"; */
+"JlT-hl-bYj.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Sign up"; ObjectID = "LkK-rO-Fmc"; */
+"LkK-rO-Fmc.configuration.title" = "Sign up";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "LkK-rO-Fmc"; */
+"LkK-rO-Fmc.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Sign in"; ObjectID = "Llc-DP-ykc"; */
+"Llc-DP-ykc.configuration.title" = "Sign in";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Llc-DP-ykc"; */
+"Llc-DP-ykc.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "R5d-3h-KNk"; */
+"R5d-3h-KNk.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Number must less than ten digits."; ObjectID = "RcS-EE-2hd"; */
+"RcS-EE-2hd.text" = "Number must less than ten digits.";
+
+/* Class = "UILabel"; text = "Enter the email address or phone number linked to your account ."; ObjectID = "SWP-CK-Axp"; */
+"SWP-CK-Axp.text" = "Enter the email address or phone number linked to your account .";
+
+/* Class = "UILabel"; text = "Invalid Emailaddress."; ObjectID = "UrR-Xn-647"; */
+"UrR-Xn-647.text" = "Invalid Emailaddress.";
+
+/* Class = "UILabel"; text = "Forgot Email?"; ObjectID = "Y2i-hd-hJ9"; */
+"Y2i-hd-hJ9.text" = "Forgot Email?";
+
+/* Class = "UILabel"; text = "by creating a free account."; ObjectID = "Zuz-yA-XKW"; */
+"Zuz-yA-XKW.text" = "by creating a free account.";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "aND-On-2je"; */
+"aND-On-2je.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Invalid Emailaddress."; ObjectID = "baL-hK-hSy"; */
+"baL-hK-hSy.text" = "Invalid Emailaddress.";
+
+/* Class = "UILabel"; text = "Password must contains six characters."; ObjectID = "cgE-5s-w8I"; */
+"cgE-5s-w8I.text" = "Password must contains six characters.";
+
+/* Class = "UILabel"; text = "Gender is required."; ObjectID = "cjV-ij-xeG"; */
+"cjV-ij-xeG.text" = "Gender is required.";
+
+/* Class = "UIButton"; configuration.title = "Submit"; ObjectID = "dfn-9j-XXn"; */
+"dfn-9j-XXn.configuration.title" = "Submit";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dfn-9j-XXn"; */
+"dfn-9j-XXn.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Forgot password ?"; ObjectID = "f59-Gk-dY6"; */
+"f59-Gk-dY6.text" = "Forgot password ?";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "geh-Bx-AWW"; */
+"geh-Bx-AWW.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Lets see what you have missed"; ObjectID = "hnx-QE-NEQ"; */
+"hnx-QE-NEQ.text" = "Lets see what you have missed";
+
+/* Class = "UIButton"; configuration.title = "Sign in with Google"; ObjectID = "jbB-PP-L7U"; */
+"jbB-PP-L7U.configuration.title" = "Sign in with Google";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "jbB-PP-L7U"; */
+"jbB-PP-L7U.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Support center"; ObjectID = "od9-9Y-mhY"; */
+"od9-9Y-mhY.configuration.title" = "Support center";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "od9-9Y-mhY"; */
+"od9-9Y-mhY.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Last name"; ObjectID = "ony-5M-Y4d"; */
+"ony-5M-Y4d.placeholder" = "Last name";
+
+/* Class = "UILabel"; text = "Welcome Back !"; ObjectID = "qCj-EU-Arg"; */
+"qCj-EU-Arg.text" = "Welcome Back !";
+
+/* Class = "UITextField"; placeholder = "Gender"; ObjectID = "rU5-WP-VLk"; */
+"rU5-WP-VLk.placeholder" = "Gender";
+
+/* Class = "UITextField"; placeholder = "Date of birth (Optional)"; ObjectID = "tzk-QQ-zJy"; */
+"tzk-QQ-zJy.placeholder" = "Date of birth (Optional)";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "xId-5Z-EZW"; */
+"xId-5Z-EZW.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "First name"; ObjectID = "xhi-ZV-HuF"; */
+"xhi-ZV-HuF.placeholder" = "First name";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "xpA-IV-uQs"; */
+"xpA-IV-uQs.placeholder" = "Email";

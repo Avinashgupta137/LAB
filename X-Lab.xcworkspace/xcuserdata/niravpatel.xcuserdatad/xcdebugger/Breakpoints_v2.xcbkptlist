@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5FCA1811-1682-43CE-B02C-38BF1E65533C"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "05CF0F7C-06CE-40BA-B770-3708B4C36E0B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "X-Lab/Screens/MainTabComponents/SideMenuComponents/AppLanguage/AppLanguageVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "setAppLanguage(languageCode:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "899FA64D-1421-4A42-8727-80760E8FE177"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "X-Lab/Screens/MainTabComponents/SideMenuComponents/AppLanguage/AppLanguageVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "languageDidChange()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47C01B53-A9E8-445A-977D-31304C1EF498"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "X-Lab/AppDelegate/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6EE0868C-43EF-4CCA-B69F-57BE4FA53CBF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "X-Lab/AppDelegate/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6BC820EB-1834-4524-8C25-6439D1A1988C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "X-Lab/Screens/MainTabComponents/Home/View/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "updateUIForCurrentLanguage()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "428C6DDE-D272-4927-B654-6A89D4B5415C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "X-Lab/Screens/MainTabComponents/SideMenuComponents/AppLanguage/AppLanguageVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "switchToEnglish()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "428C6DDE-D272-4927-B654-6A89D4B5415C - 84fe312ab8b2ddc1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "X_Lab.AppLanguageVC.switchToEnglish() -&gt; ()"
+                  moduleName = "X-Lab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/niravpatel/Suraj/X-lab/X-Lab/X-Lab/Screens/MainTabComponents/SideMenuComponents/AppLanguage/AppLanguageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "428C6DDE-D272-4927-B654-6A89D4B5415C - 84fe312ab8b2ddc1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "X_Lab.AppLanguageVC.switchToEnglish() -&gt; ()"
+                  moduleName = "X-Lab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/niravpatel/Suraj/X-lab/X-Lab/X-Lab/Screens/MainTabComponents/SideMenuComponents/AppLanguage/AppLanguageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4844277-557F-440D-9308-5379AB0D8493"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "X-Lab/Screens/MainTabComponents/SideMenuComponents/AppLanguage/AppLanguageVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "switchToHindi()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F4844277-557F-440D-9308-5379AB0D8493 - 3fead13b9b4ff99a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "X_Lab.AppLanguageVC.switchToHindi() -&gt; ()"
+                  moduleName = "X-Lab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/niravpatel/Suraj/X-lab/X-Lab/X-Lab/Screens/MainTabComponents/SideMenuComponents/AppLanguage/AppLanguageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "F4844277-557F-440D-9308-5379AB0D8493 - 3fead13b9b4ff97d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "X_Lab.AppLanguageVC.switchToHindi() -&gt; ()"
+                  moduleName = "X-Lab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/niravpatel/Suraj/X-lab/X-Lab/X-Lab/Screens/MainTabComponents/SideMenuComponents/AppLanguage/AppLanguageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

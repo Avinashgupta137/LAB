@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "KDM-5r-8Wr"; */
+"KDM-5r-8Wr.text" = "Title";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "N9d-kD-Xre"; */
+"N9d-kD-Xre.text" = "Subtitle";
+
+/* Class = "UIButton"; configuration.title = "Close"; ObjectID = "kw2-xu-fqN"; */
+"kw2-xu-fqN.configuration.title" = "Close";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "kw2-xu-fqN"; */
+"kw2-xu-fqN.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Ok"; ObjectID = "tpL-1Q-jRG"; */
+"tpL-1Q-jRG.configuration.title" = "Ok";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "tpL-1Q-jRG"; */
+"tpL-1Q-jRG.normalTitle" = "Button";

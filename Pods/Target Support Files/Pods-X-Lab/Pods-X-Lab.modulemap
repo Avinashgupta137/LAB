@@ -1,0 +1,6 @@
+framework module Pods_X_Lab {
+  umbrella header "Pods-X-Lab-umbrella.h"
+
+  export *
+  module * { export * }
+}
